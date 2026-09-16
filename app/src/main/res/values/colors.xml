@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FB4F14</color>
+    <color name="navy">#002244</color>
+    <color name="app_background">#FFF9F5</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="card_outline">#E5DED8</color>
+    <color name="ink">#211A17</color>
+    <color name="ink_muted">#6E625C</color>
 </resources>
