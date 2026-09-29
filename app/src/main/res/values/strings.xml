@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Bengals Seahawks App</string>
+    <string name="app_name">Bengals &amp; Seahawks News</string>
+    <string name="bengals">Bengals</string>
+    <string name="seahawks">Seahawks</string>
+    <string name="saved">Saved</string>
+    <string name="refresh">Refresh news</string>
+    <string name="add_bookmark">Save article</string>
+    <string name="remove_bookmark">Remove saved article</string>
+    <string name="empty_feed">No stories yet. Tap refresh to try again.</string>
+    <string name="empty_saved">No saved stories yet. Tap a star to save an article.</string>
+    <string name="article_metadata">%1$s  •  %2$s</string>
+    <string name="invalid_article_link">This article link cannot be opened.</string>
 </resources>
